@@ -27,7 +27,6 @@
      <string>Z?</string>
     </property>
    </widget>
-<<<<<<< HEAD
    <widget class="QRadioButton" name="radioButton">
     <property name="geometry">
      <rect>
@@ -39,19 +38,6 @@
     </property>
     <property name="text">
      <string>RadioButton</string>
-=======
-   <widget class="QPushButton" name="pushButton">
-    <property name="geometry">
-     <rect>
-      <x>310</x>
-      <y>120</y>
-      <width>131</width>
-      <height>61</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Grigory molodec</string>
->>>>>>> main
     </property>
    </widget>
   </widget>
