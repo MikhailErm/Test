@@ -17,14 +17,27 @@
    <widget class="QCheckBox" name="checkBox">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>160</y>
+      <x>260</x>
+      <y>190</y>
       <width>311</width>
       <height>141</height>
      </rect>
     </property>
     <property name="text">
      <string>Z?</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>120</y>
+      <width>131</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Grigory molodec</string>
     </property>
    </widget>
   </widget>
